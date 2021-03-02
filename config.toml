@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://resources.cfaz.dev/"
 languageCode = "en-us"
 title = "CFaz gamedev resources"
 Paginate = 1000
